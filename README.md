@@ -11,3 +11,7 @@
 ## Tools Used
 - Verilog HDL
 - EDA Playground
+ ## Author
+ Manasa mytri
+ ## Simulation result
+ ![ALU Waveform](alu waveform.png)
