@@ -14,4 +14,4 @@
  ## Author
  Manasa mytri
  ## Simulation result
- ![ALU Waveform](alu waveform.png)
+ ![ALU Waveform](alu%20waveform.png)
